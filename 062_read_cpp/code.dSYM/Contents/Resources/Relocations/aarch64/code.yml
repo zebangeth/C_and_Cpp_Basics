@@ -1,0 +1,11 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/zebang.eth/Desktop/localMLP/062_read_cpp/code'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z12printMessagePK7MyClass, symObjAddr: 0x0, symBinAddr: 0x100003DEC, symSize: 0x4C }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: __Z12printMessagePK7MyClass, symObjAddr: 0x0, symBinAddr: 0x100003DEC, symSize: 0x4C }
+  - { offsetInCU: 0xEF, offset: 0xEF, size: 0x8, addend: 0x0, symName: __ZNK7MyClass16computeSomethingEv, symObjAddr: 0x4C, symBinAddr: 0x100003E38, symSize: 0x2C }
+  - { offsetInCU: 0x113, offset: 0x113, size: 0x8, addend: 0x0, symName: __ZN7MyClass7doStuffERKS_, symObjAddr: 0x78, symBinAddr: 0x100003E64, symSize: 0x50 }
+  - { offsetInCU: 0x146, offset: 0x146, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xC8, symBinAddr: 0x100003EB4, symSize: 0x88 }
+  - { offsetInCU: 0x18A, offset: 0x18A, size: 0x8, addend: 0x0, symName: __ZN7MyClass9setPointsEii, symObjAddr: 0x150, symBinAddr: 0x100003F3C, symSize: 0x2C }
+...

@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     sortLines
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: _stringOrder, symObjAddr: 0x0, symBinAddr: 0x100003C14, symSize: 0x44 }
+  - { offsetInCU: 0x39, offset: 0x39, size: 0x8, addend: 0x0, symName: _stringOrder, symObjAddr: 0x0, symBinAddr: 0x100003C14, symSize: 0x44 }
+  - { offsetInCU: 0x8B, offset: 0x8B, size: 0x8, addend: 0x0, symName: _sortData, symObjAddr: 0x44, symBinAddr: 0x100003C58, symSize: 0x38 }
+  - { offsetInCU: 0xBD, offset: 0xBD, size: 0x8, addend: 0x0, symName: _process_file, symObjAddr: 0x7C, symBinAddr: 0x100003C90, symSize: 0x108 }
+  - { offsetInCU: 0x135, offset: 0x135, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x184, symBinAddr: 0x100003D98, symSize: 0x170 }
+...

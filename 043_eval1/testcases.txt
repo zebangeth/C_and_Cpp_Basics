@@ -1,0 +1,24 @@
+#error
+printFilteredSsData sunspots_data.csv 10
+printFilteredSsData sunspots_data.csv 0
+printSsData test_data_illegal_char1.csv
+printSsData test_data_illegal_char2.csv
+printSsData test_data_missing_dash.csv
+printSsData test_data_missing_comma.csv
+printSsData test_data_wrong_month1.csv
+printSsData test_data_wrong_month2.csv
+printSsData test_data_wrong_num1.csv
+printSsData test_data_wrong_num2.csv
+printSsData test_data_wrong_num3.csv
+printSsData test_data_wrong_year.csv
+
+
+#success
+printSsData sunspots_data.csv
+printFilteredSsData sunspots_data.csv 5
+printFilteredSsData sunspots_data.csv 9
+printFilteredSsData sunspots_data.csv 53
+printFilteredSsData sunspots_data.csv 71
+printSsPeriod sunspots_data.csv 101
+printSsPeriod sunspots_data.csv 71
+printSsPeriod sunspots_data.csv 5

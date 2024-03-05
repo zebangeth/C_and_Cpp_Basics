@@ -1,0 +1,17 @@
+story-step1 story.txt
+story-step2 words.txt
+story-step3 words.txt story2.txt
+story-step4 words.txt story2.txt
+story-step4 -n words.txt story2.txt
+story-step4 words.txt story3.txt
+story-step4 -n words.txt story3.txt
+story-step4 words.txt story4.txt
+story-step4 -n words.txt story4.txt
+story-step4 words2.txt story4.txt
+story-step4 -n words2.txt story4.txt
+story-step4 words3.txt story5.txt
+story-step4 -n words3.txt story5.txt
+story-step4 words3.txt story6.txt
+story-step4 words.txt story6.txt
+story-step4 words_not_exist.txt story.txt
+story-step4 words.txt story_not_exist.txt

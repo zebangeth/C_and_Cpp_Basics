@@ -1,0 +1,20 @@
+inputtest.txt
+inputcopy.txt
+inputcopy2.txt
+inputcopy3.txt
+inputcopy4.txt
+inputcopy5.txt
+inputcopy6.txt
+inputcopy7.txt
+inputcopy8.txt
+inputcopy9.txt
+inputcopy10.txt
+inputcopy11.txt
+inputcopy12.txt
+inputcopy.txt
+DFS.TXT
+input3.txt
+inputcopy12.tx
+
+inputcopy12.txt inputcopy10.txt
+inputemacs.txt

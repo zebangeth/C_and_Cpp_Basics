@@ -1,0 +1,28 @@
+Grading at 12/06/2023:02:47:30.789081
+For commit ID de7915e9aca926893fb4c198073a5edf74c6974a
+Grading at Tue Dec  5 09:46:59 PM EST 2023
+compiling
+g++ -ggdb3 -Wall -Werror -pedantic -std=gnu++98 -c bitstring.cpp
+g++ -ggdb3 -Wall -Werror -pedantic -std=gnu++98 -c buildTree.cpp
+g++ -ggdb3 -Wall -Werror -pedantic -std=gnu++98 -c compress.cpp
+g++ -ggdb3 -Wall -Werror -pedantic -std=gnu++98 -c node.cpp
+g++ -ggdb3 -Wall -Werror -pedantic -std=gnu++98 -c readFreq.cpp
+g++ -ggdb3 -Wall -Werror -pedantic -std=gnu++98 -o compress  bitstring.o  buildTree.o  compress.o  node.o  readFreq.o
+Make succeed, compress created
+Testcase 1
+-----------------------
+Decompressing, and comparing to original...:
+Your file matched the expected output
+Testcase passed 
+Testcase 2
+-----------------------
+Decompressing, and comparing to original...:
+Your file matched the expected output
+Testcase passed 
+Testcase 3
+-----------------------
+Decompressing, and comparing to original...:
+Your file matched the expected output
+Testcase passed 
+
+Overall Grade: A

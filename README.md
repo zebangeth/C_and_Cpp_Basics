@@ -1,8 +1,8 @@
-#### This is the repo for 2023 Fall Duke ECE551 course assignments and projects. 
+### This is the repo for 2023 Fall Duke ECE551 course assignments and projects. 
 
-##### Overall Assignment and Project Grade: 99.8%
+#### Overall Assignment and Project Grade: 99.8%
 
-##### Detailed grade report: 
+#### Detailed grade report: 
 
 000_submit: PASSED
 
